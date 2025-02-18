@@ -25,19 +25,19 @@ The assignment is implemented entirely in **Python** and documented using **Jupy
 ## Repository Structure
 This repository consists of three branches:
 
-1. **dataset-1**: Contains the Jupyter Notebook for cleaning data using a "Clean Data Checker." This tool detects various types of errors such as:
+1. **Main**: Contains only this README file. 
+
+2. **dataset-1**: Contains the Jupyter Notebook for cleaning data using a "Clean Data Checker." This tool detects various types of errors such as:
    - Data type errors
    - Range errors
    - Format inconsistencies
    - Duplicate entries
    - Missing values, etc.
 
-2. **dataset-2**: Contains the Jupyter Notebook focusing on data imputation. This includes testing different imputation techniques such as:
+3. **dataset-2**: Contains the Jupyter Notebook focusing on data imputation. This includes testing different imputation techniques such as:
    - Mean/Median/Mode imputation
    - Regression-based imputation
    - Correlation-based imputation
-
-3. **Main**: Contains only this README file. 
 
 Each dataset and its respective processing are thoroughly explained within their respective Jupyter Notebooks.
 
