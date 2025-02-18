@@ -76,7 +76,7 @@ This assignment was completed as part of the CSI4142 - Fundamentals of Data Scie
 ---
 
 ## Contact
-For any questions or clarifications, please reach out via email.~
+For any questions or clarifications, please reach out via email.
 
 malsh094@uottawa.ca
 
