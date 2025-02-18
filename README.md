@@ -23,7 +23,7 @@ The assignment is implemented entirely in **Python** and documented using **Jupy
 ---
 
 ## Repository Structure
-This repository consists of two branches:
+This repository consists of three branches:
 
 1. **dataset-1**: Contains the Jupyter Notebook for cleaning data using a "Clean Data Checker." This tool detects various types of errors such as:
    - Data type errors
@@ -36,6 +36,8 @@ This repository consists of two branches:
    - Mean/Median/Mode imputation
    - Regression-based imputation
    - Correlation-based imputation
+
+3. **Main**: Contains only this README file. 
 
 Each dataset and its respective processing are thoroughly explained within their respective Jupyter Notebooks.
 
