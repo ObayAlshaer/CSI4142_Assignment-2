@@ -65,13 +65,6 @@ Each dataset and its respective processing are thoroughly explained within their
 
 ---
 
-## Important Notes
-- The datasets are **not** included in this repository. Instead, links to their sources are provided in the respective notebooks.
-- Ensure that all dependencies are installed before running the notebooks.
-- The code has been tested to ensure executability. If issues arise, ensure that dataset paths are correctly set.
-
----
-
 ## Acknowledgment
 This assignment was completed as part of the CSI4142 - Fundamentals of Data Science course under the guidance of **Professor Caroline Barrière** at the **University of Ottawa**.
 
